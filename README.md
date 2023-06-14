@@ -7,6 +7,7 @@
 Retrofit is employed for invoking API calls, while OkHttpClient intercepts the requests and adds the movieDB's access token to the header of each request.
 
 *Dagger Hilt*
+
 Dagger Hilt is adopted for DI, offering easily understandable annotations and a straightforward setup. In the current project, DI primarily provide the repository and interface in ViewModel with the need of construct it.
 
 **Architecture**
