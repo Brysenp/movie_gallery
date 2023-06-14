@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MovieGallery</string>
+    <string name="movie_search_hint">Search by Keyword</string>
 </resources>

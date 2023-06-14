@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="listItemBackground">#F2C9C9</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="transparent">@android:color/transparent</color>
+    <color name="colorBackground">#f8f8f8</color>
 </resources>
